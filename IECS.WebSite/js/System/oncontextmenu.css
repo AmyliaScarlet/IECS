@@ -1,0 +1,21 @@
+﻿#menu {
+    width: 128px;
+    height: auto;
+    overflow: hidden; /*隐藏溢出的元素*/
+    box-shadow: 0 1px 1px #6db8ff,1px 0 1px #6db8ff;
+    position: absolute; /*自定义菜单相对与body元素进行定位*/
+    background: #0b8bc0;
+    border-radius: 4px;
+}
+
+.menu {
+    width: 130px;
+    height: 25px;
+    line-height: 25px;
+    padding: 0 10px;
+    color:#fff;
+}
+    .menu:hover {
+        background: #0094ff;
+        cursor: default;
+    }

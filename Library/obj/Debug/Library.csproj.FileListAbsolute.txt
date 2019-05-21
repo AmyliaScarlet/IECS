@@ -1,0 +1,12 @@
+F:\IECS\IECS\Library\bin\Debug\Library.dll
+F:\IECS\IECS\Library\bin\Debug\Library.pdb
+F:\IECS\IECS\Library\bin\Debug\BouncyCastle.Crypto.dll
+F:\IECS\IECS\Library\bin\Debug\Enyim.Caching.dll
+F:\IECS\IECS\Library\bin\Debug\Newtonsoft.Json.dll
+F:\IECS\IECS\Library\bin\Debug\Enyim.Caching.pdb
+F:\IECS\IECS\Library\bin\Debug\Enyim.Caching.xml
+F:\IECS\IECS\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\IECS\IECS\Library\obj\Debug\Library.csproj.CopyComplete
+F:\IECS\IECS\Library\obj\Debug\Library.dll
+F:\IECS\IECS\Library\obj\Debug\Library.pdb
+F:\IECS\IECS\Library\obj\Debug\Library.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿{
+    "Default": {
+        "css": [
+            "css/Main.css"
+        ],
+        "js": [
+          "js/swiper.min.js",
+          "js/jquery.qrcode.js",
+          "js/jquery.noty.packaged.js",
+          "js/jquery.circliful.js",
+
+          "js/sweetalert.min.js",
+          "js/TweenLite.min.js",
+          "js/EasePack.min.js",
+          "js/demo-1.js",
+
+          "js/System/oncontextmenu.js",
+          "js/System/Function.js"
+        ]
+    },
+    "Home": {
+        "css": [
+           
+            "css/Main.css"
+
+        ],
+        "js": [
+            "js/demo-1.js"
+        ]
+    }
+}
